@@ -60,4 +60,3 @@ INSERT INTO pledges (amount, user_id, project_id) VALUES (15, 17, 9);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (50, 18, 5);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (15, 19, 4);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (25, 20, 1);
-© 2020 GitHub, Inc.
